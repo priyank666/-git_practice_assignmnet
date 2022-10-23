@@ -1,4 +1,4 @@
-    var str = naman;
+    var str = "naman";
     var N = 5;
     var new_str="";
     
