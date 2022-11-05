@@ -1,3 +1,4 @@
+
 function checkPrime(number){
     let factors = 0;
 
@@ -7,6 +8,7 @@ function checkPrime(number){
         }
     }
     if(factors == 2) {
+
         return true;
     }
     return false;
